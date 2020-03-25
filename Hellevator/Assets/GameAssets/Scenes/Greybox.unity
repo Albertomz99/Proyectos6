@@ -128,6 +128,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1676767983, guid: 8f00afffef3953d47a6d48274a6ff0f5, type: 3}
+      propertyPath: m_possessedOnStart
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5180346640330294895, guid: 8f00afffef3953d47a6d48274a6ff0f5,
         type: 3}
       propertyPath: m_ConnectedAnchor.x
@@ -496,6 +500,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1676767983, guid: 8f00afffef3953d47a6d48274a6ff0f5, type: 3}
+      propertyPath: m_possessedOnStart
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5180346640330294895, guid: 8f00afffef3953d47a6d48274a6ff0f5,
         type: 3}
       propertyPath: m_ConnectedAnchor.x
@@ -621,6 +629,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1676767983, guid: 8f00afffef3953d47a6d48274a6ff0f5, type: 3}
+      propertyPath: m_possessedOnStart
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5180346640330294895, guid: 8f00afffef3953d47a6d48274a6ff0f5,
         type: 3}
       propertyPath: m_ConnectedAnchor.x
@@ -956,6 +968,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1676767983, guid: 8f00afffef3953d47a6d48274a6ff0f5, type: 3}
+      propertyPath: m_possessedOnStart
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5180346640330294895, guid: 8f00afffef3953d47a6d48274a6ff0f5,
         type: 3}
       propertyPath: m_ConnectedAnchor.x
@@ -1542,6 +1558,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1676767983, guid: 8f00afffef3953d47a6d48274a6ff0f5, type: 3}
+      propertyPath: m_possessedOnStart
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5180346640330294895, guid: 8f00afffef3953d47a6d48274a6ff0f5,
         type: 3}
       propertyPath: m_ConnectedAnchor.x
@@ -1963,6 +1983,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1676767983, guid: 8f00afffef3953d47a6d48274a6ff0f5, type: 3}
+      propertyPath: m_possessedOnStart
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5180346640330294895, guid: 8f00afffef3953d47a6d48274a6ff0f5,
         type: 3}
       propertyPath: m_ConnectedAnchor.x
@@ -2093,6 +2117,18 @@ PrefabInstance:
     - target: {fileID: 1676767983, guid: 8f00afffef3953d47a6d48274a6ff0f5, type: 3}
       propertyPath: m_possessedOnStart
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1676767983, guid: 8f00afffef3953d47a6d48274a6ff0f5, type: 3}
+      propertyPath: m_JumpMask.m_Bits
+      value: 769
+      objectReference: {fileID: 0}
+    - target: {fileID: 1676767983, guid: 8f00afffef3953d47a6d48274a6ff0f5, type: 3}
+      propertyPath: m_maxSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1676767983, guid: 8f00afffef3953d47a6d48274a6ff0f5, type: 3}
+      propertyPath: m_acceleration
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 5180346641535575440, guid: 8f00afffef3953d47a6d48274a6ff0f5,
         type: 3}
